@@ -1,2 +1,7 @@
 adding trash text;
 the purpose is to see how graph tree on git react to changes in dev
+
+2. clean graph tree till now, main in the far left, dev on the right.
+adding 2 commits to see graph changes
+
+2.a first commit (after the clean graph tree)
