@@ -8,3 +8,5 @@ github graphical tree representation stay consistent yet, with horizontal tree w
 for 'dev'
 I aspect another local graph tree 'switch' (main red on far left, dev green on the right side of main) after committing this edit
 
+4. going to commit this bulletpoint, in the mean time I added origin/HEAD with the followin command (in case it misses)
+git remote set-head origin -a (or --auto)
