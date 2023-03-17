@@ -5,3 +5,15 @@ the purpose is to see how graph tree on git react to changes in dev
 adding 2 commits to see graph changes
 
 2.a first commit (after the clean graph tree)
+
+NOTE: worked on local repo till 2.a and noticed, if dev tree move far left, doing in main branc a commit --amend
+	(even if no chenge in the commit is done), main branch go back to far  left
+	Apparently this tree 'movement' happens only on local repo 'graph' while the github tree graph stay consistent
+
+adding now a new commit (at this moment I pushed both main and dev on github)
+
+as a recap untill this line
+	main graph tree is red on the far left
+	dev graph tree is green on the right
+
+2.b second commit here (to see ho local graph tree change)
