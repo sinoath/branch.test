@@ -1,3 +1,10 @@
 1. modified after dev
 at the moment dev branc is far left and above main in graph tree (before to commit this change)
 
+3. (2. and 2.a are in dev branch)
+before committing this change, graph tree are 'switched', so dev graph tree is red and far left while main
+graph tree become gree on the right side of dev tree.
+github graphical tree representation stay consistent yet, with horizontal tree white branch main and cyan branch
+for 'dev'
+I aspect another local graph tree 'switch' (main red on far left, dev green on the right side of main) after committing this edit
+
